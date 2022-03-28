@@ -1,0 +1,4 @@
+#Mon Mar 28 11:24:26 ICT 2022
+base.0=D\:\\KTRa\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
